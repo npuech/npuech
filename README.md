@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npuech&label=Profile%20views&color=0e75b6&style=flat" alt="npuech" /> </p>
 
-- 🔭 Je travaille actuellement sur **MODERN SPORT !**
+- 🔭 Je travaille actuellement sur **RetainRacer & MODERN SPORT !**
 
 - 🌱 J'apprend actuellement **JavaScript, React, NodeJs**
 
