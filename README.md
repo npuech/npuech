@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je suis Noa</h1>
-<h3 align="center">Je voudrais devenir Développeur Full-Stack ! Français 🇫🇷</h3>
+<h3 align="center">Je voudrais devenir Développeur Full-Stack ! 🇫🇷</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=npuech&label=Profile%20views&color=0e75b6&style=flat" alt="npuech" /> </p>
 
