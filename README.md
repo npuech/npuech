@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 • Je travaille actuellement sur : **Retain Racer**.<br>🌱 • J’apprends actuellement **JavaScript**, **React JS**, et **NodeJs**.
+💻 • Jeune développeur full-stack étudiant, Français 🇫🇷<br>🔭 • Je travaille actuellement sur : **Retain Racer**.<br>🌱 • J’apprends actuellement **JavaScript**, **React JS**, et **NodeJs**.
 
 
 ## 🌐 Socials:
