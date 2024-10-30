@@ -1,6 +1,5 @@
 # 💫 About Me:
-💻 • Jeune étudiant dans la Tech et Cybersécurité, **Français** 🇫🇷<br>🔭 • Je travaille actuellement sur : **Retain Racer**.<br>🌱 • J’apprends actuellement **JavaScript**, **React JS**, **NodeJs**, et **Python**.
-
+💻 • Jeune étudiant dans la **Tech** et la **Cybersécurité**, **Français** 🇫🇷<br>🔭 • Je travaille actuellement sur : **Retain Racer**.<br>🌱 • J’apprends actuellement **JavaScript**, **React JS**, **NodeJs**, et **Python**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noapuech) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/NiKo_Officiel_) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nikoo_officiel) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@nikoo_officiel) 
